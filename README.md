@@ -14,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[View GitHub Repository](https://github.com/abhipsapanigrahi86/PhishCatcher)**
+👉 **[View Live Site](https://abhipsapanigrahi86.github.io/PhishCatcher/)**
 
 ---
 
